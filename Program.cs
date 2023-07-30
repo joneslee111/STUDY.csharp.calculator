@@ -4,8 +4,8 @@ class Program
     static void Main(string[] args)
     {
         // Declare variables and initialise to zero
-        int num1 = 0;
-        int num2 = 0;
+        double num1 = 0;
+        double num2 = 0;
         
         // Display title for the console app
         Console.WriteLine("Console Calculator in C#\r");
@@ -13,11 +13,11 @@ class Program
 
         // Ask the user to type first number
         Console.WriteLine("Type a number, and then press Enter");
-        num1 = Convert.ToInt32(Console.ReadLine());
+        num1 = Convert.ToDouble(Console.ReadLine());
 
         // Ask the user to type second number
         Console.WriteLine("Type another number, and then press Enter");
-        num2 = Convert.ToInt32(Console.ReadLine());
+        num2 = Convert.ToDouble(Console.ReadLine());
 
         // Ask the user to select an option
         Console.WriteLine("Choose an option from the following list:");
