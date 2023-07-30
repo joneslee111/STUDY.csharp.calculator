@@ -1,0 +1,15 @@
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/bin/Debug/net6.0/STUDY.csharp.calculator
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/bin/Debug/net6.0/STUDY.csharp.calculator.deps.json
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/bin/Debug/net6.0/STUDY.csharp.calculator.runtimeconfig.json
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/bin/Debug/net6.0/STUDY.csharp.calculator.dll
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/bin/Debug/net6.0/STUDY.csharp.calculator.pdb
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.csproj.AssemblyReference.cache
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.AssemblyInfoInputs.cache
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.AssemblyInfo.cs
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.csproj.CoreCompileInputs.cache
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.dll
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/refint/STUDY.csharp.calculator.dll
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.pdb
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/STUDY.csharp.calculator.genruntimeconfig.cache
+/Users/lee/Desktop/Projects/c-sharp/calculator.thecSharpAcademy/STUDY.csharp.calculator/obj/Debug/net6.0/ref/STUDY.csharp.calculator.dll
